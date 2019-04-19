@@ -17,6 +17,7 @@ LibWupc is also GPL, which can be found here:
 https://github.com/FIX94/libwupc
 
 Please contact me if you have licensing concerns. I will try to make this as GPL2+/3+ compliant as possible.
+# [PPSSXX](https://aapks.com/apk/ppssxx-psx-emulator/)
 
 ## Downloads
 
